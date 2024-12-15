@@ -1,4 +1,4 @@
-Dummy domain: https://my-test-domain.com
+Dummy domain: https://my-test-domain.com/appclip
 
 
 Generate App Clip code locally:
@@ -12,6 +12,8 @@ AppClipCodeGenerator generate \
     --output activtyRecommenderAppClipCode.svg
 
 ```
+
+QR Code: activityRecommenderQRCode.png (with the dummy domain above).
 
 
 Testing App Clip invocation locally:
